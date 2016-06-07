@@ -8,3 +8,4 @@ echo $1 $2 $3
 ARGS="$@"
 echo $ARGS
 echo $#
+echo ""
